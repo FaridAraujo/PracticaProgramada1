@@ -1,0 +1,36 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+    padding: 0;
+}
+
+
+h1 {
+    color: #5b0077;
+    text-align: center;
+}
+
+h2 {
+    color: #474747;
+    margin-top: 20px;
+}
+
+#hobbies {
+    border: 2px solid rgba(9, 5, 12, 0.635);
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgba(128, 41, 168, 0.05);
+    width: 80%;
+}
+
+
+
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #666;
+}
